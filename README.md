@@ -10,7 +10,7 @@ insta(Exercise) : https://www.instagram.com/100_ho0/<br/>
 ## 🏅Toy Project
 |Project|Skill|Link|
 |---|---|---|
-|AIFFEL_PROJECT|many skills|[AIFFEL_PROJECT]()|
+|AIFFEL_Project|many skills|[AIFFEL_Project](https://github.com/LeeHoWon98/AIFFEL_Project)|
 |AIFFEL_GOING_DEEPER|many skills|[AIFFEL_GOING_DEEPER]()|
 <br/>
 
