@@ -16,6 +16,8 @@ insta(Exercise) : https://www.instagram.com/100_ho0/<br/>
 
 ## 🏆Project
 
+Updating...
+
 <br/>
 
 ## 💊Stacks
