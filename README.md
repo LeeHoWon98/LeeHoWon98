@@ -11,7 +11,7 @@ insta(Exercise) : https://www.instagram.com/100_ho0/<br/>
 |Project|Skill|Link|
 |---|---|---|
 |AIFFEL_Project|many skills|[AIFFEL_Project](https://github.com/LeeHoWon98/AIFFEL_Project)|
-|AIFFEL_GOING_DEEPER|many skills|[AIFFEL_GOING_DEEPER]()|
+|AIFFEL_GOING_DEEPER|many skills|[AIFFEL_GOING_DEEPER](https://github.com/LeeHoWon98/AIFFEL_GOING_DEEPER)|
 <br/>
 
 ## 🏆Project
