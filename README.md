@@ -4,7 +4,7 @@ Name : 이호원 (Howon Lee) <br/>
 email : howoni73@gmail.com <br/>
 insta : https://www.instagram.com/hhowwon/<br/>
 insta(Exercise) : https://www.instagram.com/100_ho0/<br/>
-blog : Updating...<br/>
+blog : https://velog.io/@howon_98<br/>
 
 <br/>
 
