@@ -8,7 +8,10 @@ insta(Exercise) : https://www.instagram.com/100_ho0/<br/>
 <br/>
 
 ## ✨Award
-
+- 2022.06 K-디지털 해커톤 본선 진출
+- 2021.11 지능형 프로그래밍 경진대회
+- 2021.11 코엑스EXPO
+- 2021.10 LINC+사회맞춤형 교육과정 수기 공모전
 
 <br/>
 
