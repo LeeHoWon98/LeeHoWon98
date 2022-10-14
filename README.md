@@ -1,5 +1,6 @@
 ![그림2](https://user-images.githubusercontent.com/98515262/195042163-d9c92ae4-0a78-4c80-b3bb-76d5b2b52e64.png)
 ## 😉Proflie
+I'm love Exercise, AI<br/>
 Name : 이호원 (Howon Lee) <br/>
 E-mail : howoni73@gmail.com <br/>
 Insta : https://www.instagram.com/hhowwon/<br/>
