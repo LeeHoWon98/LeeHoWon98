@@ -26,7 +26,7 @@ Blog : https://velog.io/@howon_98<br/>
 
 ## 🏆Project & Competition
 
-Updating....
+Updating...
 
 <br/>
 
