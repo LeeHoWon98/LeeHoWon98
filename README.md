@@ -25,7 +25,7 @@ Blog : https://velog.io/@howon_98<br/>
 <br/>
 
 ## 🏅🏅Personal Project
-|Project|Skill|Link|
+|Project_name|Skill|Link|
 |---|---|---|
 |PyTorch_Project|...|...|
 <br/>
