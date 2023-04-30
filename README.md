@@ -24,7 +24,7 @@ Blog : https://velog.io/@howon_98<br/>
 |AIFFEL_GOING_DEEPER|many skills|[AIFFEL_GOING_DEEPER](https://github.com/LeeHoWon98/AIFFEL_GOING_DEEPER)|
 <br/>
 
-## 🏅🏅Personal Project
+## 🤷‍♀️Personal Project
 |Project_name|Skill|Link|
 |---|---|---|
 |PyTorch_Project|...|...|
