@@ -2,7 +2,7 @@
 ## 😉Proflie
 I'm love Exercise, AI<br/>
 Name : 이호원 (Howon Lee) <br/>
-E-mail : asdcgu@gmail.com <br/>
+E-mail : howoni73@gmail.com <br/>
 Insta : https://www.instagram.com/hhowwon/<br/>
 Insta(Exercise) : https://www.instagram.com/100_ho0/<br/>
 Blog : https://velog.io/@howon_98<br/>
