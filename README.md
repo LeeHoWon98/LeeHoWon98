@@ -27,13 +27,14 @@ Blog : https://velog.io/@howon_98<br/>
 ## 🤷‍♀️Personal Project
 |Project_name|Skill|Link|
 |---|---|---|
-|PyTorch_Project|...|...|
+|PyTorch_Project|RL and Algorithm|RL(https://github.com/LeeHoWon98/Reinforcement_learning_DQN)|
 <br/>
 
 ## 🏆Project & Competition
 
-Updating......
-
+|Project_name|Skill|Link|
+|---|---|---|
+|PyTorch_Project|RL and Algorithm|RL(https://github.com/LeeHoWon98/Reinforcement_learning_DQN)|
 <br/>
 
 ## 💊Stacks
